@@ -25,7 +25,7 @@ export default {
           height: 0,
           margin: "1rem 0",
           /*
-           * - '75%' indicates the aspect rasio (3/4 = 75%).
+           * - '56.25%' indicates the aspect rasio (9/16 = 56.25%).
            * - note that percentage inside 'padding-(top|bottom)' is calculated based on
            *   its current width. this is a specification of 'calc' used inside
            *   the 'padding-(top|bottom)' property.

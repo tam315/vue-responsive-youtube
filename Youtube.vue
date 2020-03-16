@@ -11,7 +11,7 @@ export default {
   props: ["maxWidth", "videoId"],
   computed: {
     src() {
-      return `http://www.youtube.com/embed/${this.videoId}`;
+      return `https://www.youtube.com/embed/${this.videoId}`;
     }
   },
   data() {
